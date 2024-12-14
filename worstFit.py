@@ -31,7 +31,7 @@ def worst_fit(block_size, process_size):
 
 
 # exmple input & calling the function
-block_size = [100, 500, 200, 300, 600]
-process_size = [312, 417, 289, 426]
+block_size = [100, 500, 200, 300, 600] # remain 288 size in block no 5 
+process_size = [312, 417, 289, 426] 
 
 worst_fit(block_size, process_size)
